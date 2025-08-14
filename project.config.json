@@ -1,0 +1,30 @@
+{
+  "description": "项目配置文件。",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "miniprogramRoot": "dist/wx/",
+  "compileType": "miniprogram",
+  "appid": "wxf46f6b32287b2ed3",
+  "projectname": "my-project",
+  "condition": {},
+  "libVersion": "3.7.8",
+  "srcMiniprogramRoot": "dist/wx/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
